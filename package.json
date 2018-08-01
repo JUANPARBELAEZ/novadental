@@ -1,0 +1,19 @@
+{
+  "name": "novadental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "dev": "next dev"
+  },
+  "author": "Juan Pablo Arbelaez Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "semantic-ui-react": "^0.82.0"
+  }
+}
